@@ -1,0 +1,21 @@
+{
+  "name": "navy-biography",
+  "version": "1.0.0",
+  "description": "My flag officer format biography",
+  "main": "README.md",
+  "dependencies": {
+    "proofreader": "^0.6.4",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "proofreader -f README.md",
+    "start": "watch 'npm test' ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@me:jhwohlgemuth/navy-biography"
+  },
+  "author": "LCDR Jason Wohlgemuth",
+  "license": "MIT"
+}
