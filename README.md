@@ -5,7 +5,7 @@ Lieutenant Commander Jason Wohlgemuth, a native of Alta Loma, California, is a 2
 
 He served as a division officer at sea aboard USS Louisiana (SSBN 743B), where he completed submarine warfare and nuclear engineer officer qualifications.
 
-Ashore, LCDR Wohlgemuth served as a plans integration officer USSTRATCOM Joint Functional Component Command, Global Strike. Lieutenant Commander Wohlgemuth has earned Bachelor's degrees in Physics and Mathematics,and a Master's degree in Mathematics.
+Ashore, LCDR Wohlgemuth served as a plans integration officer USSTRATCOM Joint Functional Component Command, Global Strike. Lieutenant Commander Wohlgemuth has earned Bachelor's degrees in Physics and Mathematics, and a Master's degree in Mathematics.
 
 His military awards include the Joint Service Commendation Medal, Joint Service Achievement Medal, and the Navy and Marine Corps Achievement Medal.
 
