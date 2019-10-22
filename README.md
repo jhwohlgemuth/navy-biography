@@ -7,6 +7,8 @@ He served as a division officer at sea aboard USS Louisiana (SSBN 743B), where h
 
 Ashore, LCDR Wohlgemuth served as a plans integration officer USSTRATCOM Joint Functional Component Command, Global Strike. Lieutenant Commander Wohlgemuth has earned Bachelor's degrees in Physics and Mathematics, and a Master's degree in Mathematics.
 
+In 2018, LCDR Wohlgemuth was deployed to Djibouti, Africa and spent over a year as an exericse planner for the Combined Joint Task Force - Horn of Africa (CJTF-HOA).
+
 His military awards include the Joint Service Commendation Medal, Joint Service Achievement Medal, and the Navy and Marine Corps Achievement Medal.
 
-As a civilian, LCDR Wohlgemuth has served in software engineering positions within the defense industry and currently works as a senior software engineer at BAE Systems, supporting the Air Vehicle Planning System (APS) contract. His certifications include Professional of Human Resources (PHR) and Certified Information Security Systems Professional (CISSP) certifications.
+As a civilian, LCDR Wohlgemuth has served in multiple software engineering positions within the defense industry and currently works as a principal software engineer at BAE Systems, supporting the Air Vehicle Planning System (APS) contract. He is a Certified Information Security Systems Professional (CISSP) and is actively pursuing his Offensive Security Certified Professional (OSCP) certification. He has a wife and three boys.
