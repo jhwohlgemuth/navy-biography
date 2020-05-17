@@ -1,3 +1,5 @@
+![Navy Portrait](../assets/with-cover_with-smile.jpg?raw=true)
+
 # LCDR Jason Wohlgemuth
 > Navy flag officer format biography for LCDR Jason Wohlgemuth
 
