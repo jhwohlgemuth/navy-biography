@@ -11,4 +11,4 @@ In 2018, LCDR Wohlgemuth was deployed to Djibouti, Africa and spent over a year 
 
 His military awards include the Joint Service Commendation Medal, Joint Service Achievement Medal, and the Navy and Marine Corps Achievement Medal.
 
-As a civilian, LCDR Wohlgemuth has served in multiple software engineering positions within the defense industry and currently works as a principal software engineer at BAE Systems, supporting the Air Vehicle Planning System (APS) contract. He is a Certified Information Security Systems Professional (CISSP) and is actively pursuing his Offensive Security Certified Professional (OSCP) certification. He has a wife and three boys.
+As a civilian, LCDR Wohlgemuth has served in multiple software engineering positions within the defense industry and currently works as an Operations Research Analyst at USSTRATCOM. He is a Certified Information Security Systems Professional (CISSP) and actively crafts solutions using science and software in his free time. He has a wife and three boys.
