@@ -12,7 +12,7 @@ He served as a division officer at sea aboard USS Louisiana (SSBN 743B), where h
 
 Ashore, LCDR Wohlgemuth served as a plans integration officer USSTRATCOM Joint Functional Component Command, Global Strike. Lieutenant Commander Wohlgemuth has earned Bachelor's degrees in Physics and Mathematics, and a Master's degree in Mathematics.
 
-In 2018, LCDR Wohlgemuth was deployed to Djibouti, Africa and spent over a year as an exericse planner for the Combined Joint Task Force - Horn of Africa (CJTF-HOA).
+In 2018, LCDR Wohlgemuth was deployed to Djibouti, Africa and spent over a year as an exercise planner for the Combined Joint Task Force - Horn of Africa (CJTF-HOA).
 
 His military awards include the Joint Service Commendation Medal, Joint Service Achievement Medal, and the Navy and Marine Corps Achievement Medal.
 
