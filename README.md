@@ -10,7 +10,7 @@ Commander Jason Wohlgemuth, a native of Alta Loma, California, is a 2006 graduat
 
 He served as a division officer at sea aboard USS Louisiana (SSBN 743B), where he completed submarine warfare and nuclear engineer officer qualifications.
 
-Ashore, CDR Wohlgemuth served as a plans integration officer USSTRATCOM Joint Functional Component Command, Global Strike. Lieutenant Commander Wohlgemuth has earned Bachelor's degrees in Physics and Mathematics, and a Master's degree in Mathematics.
+Ashore, CDR Wohlgemuth served as a plans integration officer USSTRATCOM Joint Functional Component Command, Global Strike. Commander Wohlgemuth has earned Bachelor's degrees in Physics and Mathematics, and a Master's degree in Mathematics.
 
 In 2018, CDR Wohlgemuth was deployed to Djibouti, Africa and spent over a year as an exercise planner for the Combined Joint Task Force - Horn of Africa (CJTF-HOA).
 
